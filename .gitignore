@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Data files
+data/
+
+# Spark temp
+spark-warehouse/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
